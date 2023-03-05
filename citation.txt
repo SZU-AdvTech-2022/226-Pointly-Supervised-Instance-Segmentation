@@ -1,0 +1,7 @@
+@inproceedings{REPO-227,
+    author = "Cheng, Bowen and Parkhi, Omkar and Kirillov, Alexander",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "2617--2626",
+    title = "{Pointly-Supervised Instance Segmentation}",
+    year = "2022"
+}
